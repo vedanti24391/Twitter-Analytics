@@ -97,7 +97,6 @@ Twitter-Analytics-PowerBI/
 └── Tweet.xlsx
 ```
 
-> Keep the original dataset only if you have permission to redistribute it. Otherwise, upload the dashboard screenshots, PBIX file (if appropriate), and documentation without republishing the source dataset.
 
 ## Author
 
