@@ -45,27 +45,23 @@ Key measures used in the dashboard include:
 - Average Engagement Rate
 - Average Impressions per Tweet
 
-## Dashboard Pages
+<h3>1. Twitter Overview</h3>
 
-###
-### 1. Twitter Overview
+<p>Provides a high-level view of Twitter performance, including tweet activity, impressions, engagements, likes, retweets, replies, engagement rate, and daily trends.</p>
 
-Provides a high-level view of Twitter performance, including tweet activity, impressions, engagements, likes, retweets, replies, engagement rate, and daily trends.
+<img src="https://raw.githubusercontent.com/vedanti24391/Twitter-Analytics/main/twitter_overview.PNG" alt="Twitter Overview">
 
-![Twitter Overview](./twitter_overview.png)
+<h3>2. Twitter Engagement Analysis</h3>
 
-### 2. Twitter Engagement Analysis
+<p>Analyzes engagement by tweeting hour, engagement rate, top-performing tweets, impressions, and engagement composition.</p>
 
-Analyzes engagement by tweeting hour, engagement rate, top-performing tweets, impressions, and engagement composition.
+<img src="https://raw.githubusercontent.com/vedanti24391/Twitter-Analytics/main/twitter_engagement_analysis.PNG" alt="Twitter Engagement Analysis">
 
-![Twitter Engagement Analysis](./twitter_engagement_analysis.png)
+<h3>3. Tweet &amp; Content Performance</h3>
 
-### 3. Tweet & Content Performance
+<p>Analyzes the top tweets by impressions and likes, along with tweet volume by hour and day of the week.</p>
 
-Analyzes the top tweets by impressions and likes, along with tweet volume by hour and day of the week.
-
-![Tweet & Content Performance](./tweet_content_performance.png)
-
+<img src="https://raw.githubusercontent.com/vedanti24391/Twitter-Analytics/main/tweet_content_performance.PNG" alt="Tweet & Content Performance">
 
 ## Key Insights
 
