@@ -64,7 +64,7 @@ Provides a high-level view of account performance through:
 - Daily Impressions
 - Engagement by Day of Week
 
-![Twitter Overview](twitter_overview.png)
+![Twitter Overview](./twitter_overview.png)
 
 ### 2. Twitter Engagement Analysis
 
@@ -76,7 +76,7 @@ Focuses on engagement drivers and audience interaction:
 - Top 10 Tweets by Engagement
 - Engagement Composition
 
-![Twitter Engagement Analysis](twitter_engagement_analysis.png)
+![Twitter Engagement Analysis](./twitter_engagement_analysis.png)
 
 ### 3. Tweet & Content Performance
 
@@ -87,7 +87,8 @@ Focuses on content reach and posting behavior:
 - Tweet Volume by Hour
 - Tweet Activity by Day
 
-![Tweet & Content Performance](tweet_content_performance.png)
+![Tweet & Content Performance](./tweet_content_performance.png)
+
 
 ## Key Insights
 
