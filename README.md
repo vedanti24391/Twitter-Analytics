@@ -49,43 +49,19 @@ Key measures used in the dashboard include:
 
 ### 1. Twitter Overview
 
-Provides a high-level view of account performance through:
-
-- Total Tweets
-- Total Impressions
-- Total Engagements
-- Total Likes
-- Total Replies
-- Total Retweets
-- Average Engagement Rate
-- Average Impressions per Tweet
-- Daily Tweet Activity
-- Daily Engagements
-- Daily Impressions
-- Engagement by Day of Week
+Provides a high-level view of Twitter performance, including tweet activity, impressions, engagements, likes, retweets, replies, engagement rate, and daily trends.
 
 ![Twitter Overview](./twitter_overview.png)
 
 ### 2. Twitter Engagement Analysis
 
-Focuses on engagement drivers and audience interaction:
-
-- Engagement by Tweeting Hour
-- Engagement Rate by Tweeting Hour
-- Impressions vs Engagement Rate
-- Top 10 Tweets by Engagement
-- Engagement Composition
+Analyzes engagement by tweeting hour, engagement rate, top-performing tweets, impressions, and engagement composition.
 
 ![Twitter Engagement Analysis](./twitter_engagement_analysis.png)
 
 ### 3. Tweet & Content Performance
 
-Focuses on content reach and posting behavior:
-
-- Top 10 Tweets by Impressions
-- Top 10 Tweets by Likes
-- Tweet Volume by Hour
-- Tweet Activity by Day
+Analyzes the top tweets by impressions and likes, along with tweet volume by hour and day of the week.
 
 ![Tweet & Content Performance](./tweet_content_performance.png)
 
