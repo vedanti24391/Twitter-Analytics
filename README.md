@@ -89,10 +89,10 @@ This dashboard can help a social media or marketing team:
 Twitter-Analytics-PowerBI/
 │
 ├── README.md
-├── assets/
-│   ├── twitter_overview.png
-│   ├── twitter_engagement_analysis.png
-│   └── tweet_content_performance.png
+├── project description.txt
+├── twitter_overview.PNG
+├── twitter_engagement_analysis.PNG
+└── tweet_content_performance.PNG
 │
 └── Tweet.xlsx
 ```
