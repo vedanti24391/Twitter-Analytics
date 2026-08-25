@@ -32,7 +32,7 @@ Key preparation steps included:
 - Handled missing numeric metric values appropriately
 - Created reusable DAX measures for tweet and engagement metrics
 
-## 🧮 Key DAX Measures
+## Key DAX Measures
 
 DAX measures were created in Power BI to calculate and analyze tweet performance, engagement, audience interaction, and content trends.
 
