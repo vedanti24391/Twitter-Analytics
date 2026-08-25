@@ -50,7 +50,7 @@ Key measures used in the dashboard include:
 
 This dashboard presents the analysis completed across all six project tasks, including tweet interaction rate, media interactions, overall engagement metrics, monthly trends, and top-performing tweets.
 
-![Tweet Analysis](./Tweet%20Analysis.png)
+![Tweet Analysis](./Tweet%20Analysis.PNG)
 
 ## Key Insights
 
