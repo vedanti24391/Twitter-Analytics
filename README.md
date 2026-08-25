@@ -45,43 +45,21 @@ Key measures used in the dashboard include:
 - Average Engagement Rate
 - Average Impressions per Tweet
 
-<h3>1. Twitter Overview</h3>
+## Twitter Analytics Dashboard
 
-<p>Provides a high-level view of Twitter performance, including tweet activity, impressions, engagements, likes, retweets, replies, engagement rate, and daily trends.</p>
+This dashboard presents the analysis completed across all six project tasks, including tweet interactions, engagement rate, media interactions, overall engagement metrics, monthly trends, and top-performing tweets.
 
-<img src="https://raw.githubusercontent.com/vedanti24391/Twitter-Analytics/main/twitter_overview.PNG" alt="Twitter Overview">
-
-<h3>2. Twitter Engagement Analysis</h3>
-
-<p>Analyzes engagement by tweeting hour, engagement rate, top-performing tweets, impressions, and engagement composition.</p>
-
-<img src="https://raw.githubusercontent.com/vedanti24391/Twitter-Analytics/main/twitter_engagement_analysis.PNG" alt="Twitter Engagement Analysis">
-
-<h3>3. Tweet &amp; Content Performance</h3>
-
-<p>Analyzes the top tweets by impressions and likes, along with tweet volume by hour and day of the week.</p>
-
-<img src="https://raw.githubusercontent.com/vedanti24391/Twitter-Analytics/main/tweet_content_performance.PNG" alt="Tweet & Content Performance">
+![Twitter Analytics Dashboard](Tweet%20Analysis.PNG)
 
 ## Key Insights
 
 The dashboard highlights several useful patterns:
+•	Different tweet categories can generate different types and levels of audience interaction.
+•	Separating media and non-media tweets helps compare content-related engagement patterns.
+•	Replies, retweets and likes provide complementary indicators of audience response.
+•	Monthly and day-of-week analysis helps identify temporal engagement patterns.
+•	Top-engagement analysis helps identify tweets generating stronger audience response.
 
-- Engagement varies significantly by posting hour, with stronger activity concentrated in the evening period.
-- Likes represent the largest share of the engagement mix.
-- A small number of tweets account for a disproportionately large share of impressions and likes.
-- Tweet volume differs across days of the week, making posting frequency and engagement timing useful areas for optimization.
-- Comparing impressions with engagement rate helps distinguish high-reach tweets from genuinely high-quality engagement.
-
-## Business Value
-
-This dashboard can help a social media or marketing team:
-
-- Identify high-performing content
-- Understand effective posting times
-- Monitor reach and engagement
-- Compare content performance
-- Prioritize content strategies based on measurable audience behavior
 
 ## Project Structure
 
@@ -90,9 +68,8 @@ Twitter-Analytics-PowerBI/
 │
 ├── README.md
 ├── project description.txt
-├── twitter_overview.PNG
-├── twitter_engagement_analysis.PNG
-└── tweet_content_performance.PNG
+├── Tweet Analysis.PNG
+├── Twitter_Analytics_Project_Report
 │
 └── Tweet.xlsx
 ```
